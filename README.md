@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @kpola009
-- 👀 I’m interested in Artificial Intelligence and AutoAI
-- 🌱 I’m currently learning different techniques to develope AutoML systems
-- 💞️ I’m looking to collaborate on developing AutoML systems
 - 📫 How to reach me @ kpola009@fiu.edu
 
 <!---
